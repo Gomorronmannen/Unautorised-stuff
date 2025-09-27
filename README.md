@@ -52,5 +52,5 @@ Maintained and shared with ❤️ by **Gomorronmannen**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge" alt="Made with Love"/>
-  <img src="https://img.shields.io/badge/For-"Education"-blue?style=for-the-badge" alt="Educational Badge"/>
+  <img src="https://img.shields.io/badge/For-'Education'-blue?style=for-the-badge" alt="Educational Badge"/>
 </p>
