@@ -1,0 +1,105 @@
+FTIDv1:
+
+FTIDv1 is the most basic method of all. It involves simply shipping an empty package with your label and nothing else.
+
+Pros: [+] Extremely simple
+[+] Works well for high-volume use
+
+Cons: [-] It's a well-known trick
+[-] Most companies are aware of it
+[-] Unlikely to be effective anymore
+
+FTIDv2:
+
+FTIDv2 involves removing identifiable information from the shipping label, making it harder to trace back to you. You need to delete details like:
+[]Order IDs
+[]Return Address
+[]Name
+[]Phone number
+Pros:
+[+] Straightforward to execute
+
+Cons:
+[-] Many companies just use the tracking number to verify information
+
+FTIDv3:
+
+One of the most common FTID methods, FTIDv3 involves editing the shipping label. The changes include:
+                                                                                                                                                                                Return address: Change it to a nearby one
+                                                                                                                                                                               Phone number: Slightly alter it
+                                                                                                                                                                               Name: Replace with something random
+                                                                                                                                                                               Tracking number: Modify it subtly
+                                                                                                                                                                               Weight: Adjust if needed (e.g., for an envelope, set it to 0.1kg)
+For the shipping address, find a valid address close by using Google Maps, within the same town.
+
+Pros:
+[+] Commonly used for refunds or social engineering (SE)
+[+] High success rate if done well (around 95%)
+[+] Couriers often side with you during investigations
+
+Cons:
+[-] Requires software like Adobe Acrobat for label editing
+[-] Matching fonts can be tricky
+[-] Some couriers, like FedEx, Evri, and DHL, can be difficult to manipulate
+
+=150FTIDv4:
+
+In FTIDv4, you use a single-sided flyer with an ad printed on one side and place the FTIDv3-modified label on the other side (without the ad).
+
+Primarily used for international shipping to speed up customs clearance or expedite low-cost shipping.
+Notes:
+
+Sometimes called "advanced" FTIDv3, but it's not that different
+Best suited for international orders
+TIDv5:
+
+There are many variations of FTIDv5, but the barcode method is one of the most common:
+                                                                                                                                                   Generate a barcode with your tracking number and replace the original one
+                                                                                                                                                   Create a QR code with a similar or unreadable tracking number
+Note:
+
+This method is generally only useful for fake returns and is unnecessary otherwise.
+FTIDv6 – "Lost In Transit":
+
+One of the most frequently used methods for SEs or refunds, with several approaches. Here are the top three:
+
+Method 1:
+                                                                                                                                                                                          Attach the label to your parcel.
+​​​​​​​                                                                                                                                                   ​​​​​​​                                       Severely damage the package to make it look suspicious.
+​​​​​​​                                                                                                                                                   ​​​​​​​                                       Send the empty, beaten-up parcel.
+Couriers will usually notice the damage and investigate, often leading them to discard the package.
+
+Pros:
+[+] Simple for beginners
+
+Cons:
+[-] Couriers may refuse to accept the parcel or fail to throw it away
+[-] Results can be inconsistent
+
+Method 2:
+[]Attach the label to the parcel.
+[]Use transparent ink that disappears within 48 hours to write the warehouse address.
+Send the parcel.
+By the time it arrives, the warehouse address will have vanished, leading the courier to mark it as lost in transit.
+
+Alternatively, use disappearing printer ink.
+
+Pros:
+[+] Highly effective
+[+] Versatile in application
+
+Cons:
+[-] Can be costly
+[-] Takes effort to set up
+
+Method 3:
+[]Use a small box and seal it as if it contains something valuable.
+[]Make slashes in the box with a knife, widening the hole by reaching inside to simulate theft.
+[]Reseal the box with mismatched tape.
+[]Ship the parcel.
+Pros:
+[+] Easy for beginners
+
+Cons:
+[-] Couriers may refuse the damaged parcel
+[-] Can be unpredictable in results
