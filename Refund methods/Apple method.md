@@ -1,4 +1,4 @@
-#1 METHOD (instant refunds / replacements)
+# 1 METHOD (instant refunds / replacements)
 1) Contact them by scrolling down and clicking "chat now"
 2) Tell them EB (empty box) or even DNA (did not arrived). Always say the order was a gift and play with
 that
@@ -8,7 +8,7 @@ story hard.
 5) After you get the replacements, you can cancel them for instant refund (not fully recomended since
 sometimes
 that will be a red flag) or you can wait for the replacement and return it in store for refund, up to you.
-#2 METHOD (2-3 days refund)
+# 2 METHOD (2-3 days refund)
 1) Start a return
 2) Get the label
 3) Do FTID v6 (LIT - Lost In Transit)
